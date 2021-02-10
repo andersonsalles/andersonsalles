@@ -1,6 +1,6 @@
 ## Hi there 👋! Welcome to my profile!
 
-- 🔭 I’m currently workinga at [Acolweb](https://acolweb.com.br/)
+- 🔭 I’m currently working at [everis](https://www.everis.com/)
 - 🌱 I work with .NET (Xamarin, Web Api, WebForms, MVC and Blazor).
 - 💜 I love to work with .NET and C#, but like chalenges in Python and Data mining.
 
